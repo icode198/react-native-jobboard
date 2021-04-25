@@ -2,7 +2,7 @@
 <img src="https://github.com/goff-studio/react-native-jobboard/blob/master/src/assets/screens/suggestion.png?raw=true" width="250">
 
 # Job Board
-It's a Skill Assessment projects.
+It's a Skill Assessment project.
 
 ## What recruiter asked
 Imagine you have a bike and a driving license. You also found a job board with a list of companies offering a job. To get the job, you need to fulfill some requirements. There are 100.000 companies on the job board, 10 examples are as follows:
@@ -47,7 +47,7 @@ npx react-native run-ios
 ```
 
 ### Running the tests
-There are some super simple tests, you can
+There are some super simple tests, you can try them with:
 ```
 npm test
 ```
@@ -58,9 +58,9 @@ npm test
 * [Figma](https://www.figma.com/file/oHAxkfz6SdkIQlNU55LVmj/Job-Board) - A simple Design for UI
 
 
-### It may have some todos
+### It can have some todos
 - [x] duplicate detection when adding skills
-- [x] avoid importing empty lines [just because of having '\n'
+- [x] avoid importing empty lines - just because of having '\n'
 - [ ] duplicate detection on importing
 - [ ] input control on import
 - [ ] ability to remove jobs from the list
