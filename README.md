@@ -61,6 +61,6 @@ npm test
 ### It may have some todos
 - [x] duplicate detection when adding skills
 - [x] avoid importing empty lines [just because of having '\n'
-- [] duplicate detection on importing
-- [] input control on import
-- [] ability to remove jobs from the list
+- [ ] duplicate detection on importing
+- [ ] input control on import
+- [ ] ability to remove jobs from the list
