@@ -1,6 +1,5 @@
 
-![JobBoard Suggestion Screen](https://github.com/goff-studio/react-native-jobboard/blob/master/src/assets/screens/suggestion.png?raw=true | width=150)
-<img src="https://github.com/goff-studio/react-native-jobboard/blob/master/src/assets/screens/suggestion.png?raw=true" width="150">
+<img src="https://github.com/goff-studio/react-native-jobboard/blob/master/src/assets/screens/suggestion.png?raw=true" width="250">
 
 # Job Board
 It's a Skill Assessment projects.
