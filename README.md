@@ -64,3 +64,4 @@ npm test
 - [ ] duplicate detection on importing
 - [ ] input control on import
 - [ ] ability to remove jobs from the list
+- [x] automation with travis
