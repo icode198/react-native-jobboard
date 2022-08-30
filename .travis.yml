@@ -1,7 +1,7 @@
   name: "iOS App Build and Deploy to iTunesConnect"
   language: objective-c
   os: osx
-  osx_image: xcode10.2
+  osx_image: xcode13.4	
   node_js:
     - "8"
   before_install:
